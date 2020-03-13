@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoxyExample</string>
+    <string name="number1">Введите число 1</string>
+    <string name="number2">Введите число 2</string>
+    <string name="ErrorNumber">Введено не число</string>
+    <string name="ErrorNull">Деление на ноль невозможно</string>
+</resources>
